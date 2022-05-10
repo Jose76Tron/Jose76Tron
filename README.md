@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi. I'm José Ramón
 
-<!--
-**Jose76Tron/Jose76Tron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying
+<!-- - 🌱 I'm working on [California RP](https://www.californiarp.es/) -->
+- 📫 You can reach me on Discord: Jose76Tron#1609
 
-Here are some ideas to get you started:
+## Follow Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-songoanda59@hotmail.es-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:songoanda59@hotmail.es)
+[![Website](https://img.shields.io/website?style=flat-square&up_color=purple&up_message=Crazies%20RP&url=https%3A%2F%2Fwww.craziesrp.es%2F)](https://www.craziesrp.es)
+
+## ⚡ Technologies
+
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
