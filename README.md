@@ -5,8 +5,7 @@
 
 ## Follow Me
 
-[![Gmail Badge](https://img.shields.io/badge/-songoanda59@hotmail.es-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:songoanda59@hotmail.es)
-[![Website](https://img.shields.io/website?style=flat-square&up_color=purple&up_message=Crazies%20RP&url=https%3A%2F%2Fwww.craziesrp.es%2F)](https://www.craziesrp.es)
+[![Outlook](https://img.shields.io/badge/-songoanda59@hotmail.es-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:songoanda59@hotmail.es)
 
 ## ⚡ Technologies
 
