@@ -5,7 +5,8 @@
 ## Follow Me
 
 [![Outlook](https://img.shields.io/badge/-songoanda59@hotmail.es-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:songoanda59@hotmail.es)
-![Discord](https://img.shields.io/badge/Jose76Tron%231609-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+![Discord](https://img.shields.io/badge/Jose76Tron%231609-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 
 ## ⚡ Technologies
 
