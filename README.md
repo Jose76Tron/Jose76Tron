@@ -1,6 +1,6 @@
 # Hi. I'm José Ramón
 
-- 💼 Anfi Group - IT & Telecommunications Department
+- 💼 Anfi Group - IT & Telecommunications Department 
 
 ## Follow Me
 
